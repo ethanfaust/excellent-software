@@ -10,3 +10,6 @@
 
 ## Applications
 * [GIMP](https://www.gimp.org/)
+
+## Websites
+* [thumbsup](https://github.com/thumbsup/thumbsup) - static gallery generator
